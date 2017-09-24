@@ -1,0 +1,53 @@
+.container {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.grey {
+    color: grey;
+    font-size: 14px;
+    font-family: Arial;
+    margin-left: 0;
+}
+
+ul {
+    font-size: 14px;
+}
+
+.title {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+a{
+     color: black;
+}
+
+a,
+.feedback {
+    display: block;
+    margin: 10px 0 10px 40px;
+}
+
+.social_link {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
